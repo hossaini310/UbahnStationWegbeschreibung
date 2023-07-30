@@ -1,0 +1,8 @@
+
+POST http://localhost:3000/api/beacons
+Content-Type: application/json
+
+{
+    "uuid": "d6e7fcb6-c5b0-4772-baae-8d09c594f6b4"
+}
+###
